@@ -1,4 +1,4 @@
-Question: Implement Linear Search (Recursion)
+Question: Implement Linear Search (Recursion).
 
 Given an array of integers, search for a given key in the array recursively using linear search.
 
