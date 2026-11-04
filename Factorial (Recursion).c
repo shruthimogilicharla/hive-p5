@@ -1,4 +1,4 @@
-Question: Factorial (Recursion)
+Question: Factorial (Recursion).
 
 Given a non-negative integer N, print the factorial of N using recursion.
 
