@@ -1,4 +1,4 @@
-Question: Odd Elements Sum (Recursion)
+Question: Odd Elements Sum (Recursion).
 
 Print the sum of all odd elements in an array using recursion.
 
