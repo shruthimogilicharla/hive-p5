@@ -1,4 +1,4 @@
-Question: Max Element in Array (Recursion)
+Question: Max Element in Array (Recursion).
 
 Find the maximum element from the given array of integers using recursion.
 
