@@ -1,4 +1,4 @@
-Question: Matrix Row Sum (Recursion)
+Question: Matrix Row Sum (Recursion).
 
 Given a matrix of size N × M, print the row-wise sum using recursion. Print each row sum on a new line.
 
