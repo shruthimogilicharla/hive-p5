@@ -1,4 +1,4 @@
-Question: Only Vowels (Recursion)
+Question: Only Vowels (Recursion).
 
 Given a string, check whether it contains only vowels using recursion.
 
