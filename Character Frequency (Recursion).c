@@ -1,4 +1,4 @@
-Question: Character Frequency (Recursion).
+Question: Character Frequency (Recursion)
 
 Given a sentence S and a character K, count the occurrences of the given character in the sentence using recursion.
 
