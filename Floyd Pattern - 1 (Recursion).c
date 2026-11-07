@@ -1,4 +1,4 @@
-Question: Floyd Pattern - 1 (Recursion).
+Question: Floyd Pattern - 1 (Recursion)
 
 Print a right-angled triangle pattern using consecutive integers starting from 1 using recursion.
 
