@@ -1,4 +1,4 @@
-Question: Compute A Power B (Recursion)
+Question: Compute A Power B (Recursion).
 
 Given two integers A and B, compute A power B recursively without using any inbuilt functions or libraries.
 
